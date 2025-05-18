@@ -14,6 +14,10 @@ Manage Budget: Keep track of your travel expenses and budget.
 
 Destination Places: Plan and list down multiple travel destinations.
 
+App Direct Download Link: 
+
+https://drive.google.com/file/d/1wSHqvD5E-5LV6Pap3RUPCPFjXwA7LP8r/view?usp=drive_link
+ 
 Installation
 
 Clone the repository:
